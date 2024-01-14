@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Artisan Choice",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Working in a team of two, designed and developped a mobile application which brought together several service providers and their customers using their location to bring users's fast service delivery and proximity.\nSTACK: Flutter, Firebase",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "IT-ACADEMIA",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Designed and developped a moodle-like web app that improved the management, submission and correction of IT development projects in a technology school.\nSTACK: Django, MySQL",
+    url: "https://github.com/Ionfinisher/django-it-academia",
   },
   {
-    title: "My Resume Site",
+    title: "JOBTOPIA",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Designed and developped a web platform that brings jobseekers and companies closer together with a real time notification system for the status of job applications.\nSTACK: HTML, CSS, SCSS, JS, PHP, MySQL",
+    url: "https://github.com/Ionfinisher/jobtopia",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Boussole du chef",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Built a Wordpress website for cooks in search of new recipes.\nWARNING: The website might run slow plus there is no SSL encryption.\nSTACK: Wordpress",
+    url: "http://fortestingpurpose.atwebpages.com/",
   },
 ];
 
