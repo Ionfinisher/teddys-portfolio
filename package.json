@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://ionfinisher.github.io/Ionfinisher.github.io",
+  "homepage": "https://ionfinisher.github.io/teddys-portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://ionfinisher.github.io/Ionfinisher.github.io'",
+    "build-gh": "parcel build --public-url 'https://ionfinisher.github.io/teddys-portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
