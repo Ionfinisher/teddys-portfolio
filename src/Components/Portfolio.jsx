@@ -34,7 +34,7 @@ const projectList = [
     title: "Artisan Choice",
     description:
       "Working in a team of two, designed and developped a mobile application which brought together several service providers and their customers using their location to bring users's fast service delivery and proximity.\nSTACK: Flutter, Firebase",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://ionfinisher.github.io/artisan-choice/",
   },
   {
     title: "IT-ACADEMIA",
